@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @albumofcode
+- 👋 Hi, I’m David Escobar
 - 👀 I’m interested in code, music, and marketing!
 - 🌱 I’m currently learning how to capture space monkeys and defeat wild booleans
 - 💞️ I’m looking to collaborate on anything, just ask! :)
